@@ -2,11 +2,20 @@
 - title: Home
   url: /
 
+- title: News
+  url: /pages/news/
+
 - title: Presentations
-  url: /presentations/
+  url: /pages/presentations/
 
-- title: Resume
-  url: /resume/
+- title: Publications
+  url: /pages/publications/
 
-- title: Blog
-  url: /blog/
+- title: Teaching
+  url: /pages/teaching/
+
+- title: Bioinformatics
+  url: /pages/bioinformatics/
+
+- title: CV
+  url: /pages/resume/
