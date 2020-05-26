@@ -8,7 +8,7 @@ excerpt: "Peer-reviewed publications"
 
 Bouwmeester H(1), Schuurink RC(1), Bleeker PM(1), Schiestl F(2).  
 
-Plant J. 2019 Dec;100(5):892-907. 
+Plant Journal 2019 Dec;100(5):892-907. 
 
 Author information:  
 (1) University of Amsterdam, Swammerdam Institute for Life Sciences, Green Life 
