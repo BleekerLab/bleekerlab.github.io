@@ -6,8 +6,6 @@ title: Datasets
 During the course of our research, several datasets related to wild tomato genomes and trichomes were generated. 
 If interested, please navigate to the [Bleeker Lab community page on Zenodo](https://zenodo.org/communities/bleekerlab/?page=1&size=20) and request access to the relevant datasets. 
 
-# Datasets 
-
 ## Sequencing data - "20 accessions" 
 
 Sequencing data from the laboratory (mRNA-seq, small RNA-seq and DNA-seq) are available under restricted access on the [Zenodo archive](https://zenodo.org/communities/bleekerlab/). The list of sequenced accessions is shown below:  
