@@ -15,6 +15,9 @@ Original sequencing files can be found on Zenodo (restricted access):
 [part 1](https://zenodo.org/record/3603295), [part 2](https://zenodo.org/record/3610352), [part 3](https://zenodo.org/record/3610997), [part 4](https://zenodo.org/record/3611053), [part 5](https://zenodo.org/record/3611144).
 
 ## Blast sequence server
+
+[__Link to the tool__](http://genseq-h0.science.uva.nl/SeqServ/)  
+
 A server to perform blast queries on our custom wild tomato genomic resources. 
 
 You will find:
@@ -22,10 +25,12 @@ You will find:
   - LA2172: "Solanum_arcanum_LA2172_denovo" 
   - LA1401: "Solanum_cheesmaniae_LA1401_denovo"
   - etc. 
-2. __Draft genome sequences for S. habrochaites LA1777 and PI127826__:
+2. __Draft genome sequences for S. habrochaites LA1777 and PI127826__(2018 Technology Hotel project):
   - LA1777: "LA1777_genome_HotelProject2019"
   - PI127826: "PI127826_genome_HotelProject2019"
-
+3. __Draft genome sequences for S. arcanum LA2172__ (Aflitos et al., 2014 [PMID: 25039268](https://pubmed.ncbi.nlm.nih.gov/25039268/): 
+  - LA2172: "Solanum_arcanum_LA2172_genome"
+  - LYC4: "Solanum_habrochaites_LYC4_genome"
 
 Please request access to these resources (contact me at m.galland [at] uva [dot] nl).
 
