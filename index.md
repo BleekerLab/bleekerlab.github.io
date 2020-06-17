@@ -22,6 +22,9 @@ Many biosynthetic genes involved in specialized metabolite production have been 
 We investigate regulation of metabolite production and aim to identify small RNAs and their targets and assess their role as regulatory elements involved in the production of defense compounds produced in trichomes of pest-resistant tomatoes.
 
 ## Funding
-* NWO-STW VIDI grant (12988-Defence in the Wild). 
-* Marie Curie-Sklodowska Individual Fellowship (655656-DURETO).
-* NWO-LIFT
+* 2020-2024: NWO-LIFT
+* January 2018: NWO/ZonMW Technology Hotel Project (Wageningen Agrogenomics Center, Dr. ir. Sander Peters)
+
+* 2014-2016: Marie Curie-Sklodowska Individual Fellowship (655656-DURETO).
+* 2013-2017: NWO-STW VIDI grant (12988-Defence in the Wild). 
+
