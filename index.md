@@ -3,6 +3,8 @@ layout: page
 excerpt: "About Me..."
 ---
 
+<br>
+
 ## Natural variation in specialised metabolites against pest
 
 We focus on defence against pests via the production of specialised compounds in tomato glandular hairs (trichomes). The general aim of my research is to explore natural variation in wild tomato trichomes, to identify metabolites, genes and regulatory elements needed to reconstruct natural and sustainable defence pathways in cultivated tomato. I work in close collaboration with the biotech and breeding industry, facilitating the translation of our work to the practice of tomato breeding.
@@ -18,8 +20,8 @@ Wild tomato species have the ability to defend themselves by producing a wide va
 Many biosynthetic genes involved in specialized metabolite production have been discovered. Also, various transcription factors have been identified that play a role in the regulation of the metabolic flux. More recently it was shown that endogenous small RNAs (sRNAs) can be crucial regulators of gene expression in plants.
 
 We investigate regulation of metabolite production and aim to identify small RNAs and their targets and assess their role as regulatory elements involved in the production of defense compounds produced in trichomes of pest-resistant tomatoes.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## Funding 
-NWO-STW
-etc
+## Funding
+* NWO-STW VIDI grant (12988-Defence in the Wild). 
+* Marie Curie-Sklodowska Individual Fellowship (655656-DURETO).
+* NWO-LIFT
