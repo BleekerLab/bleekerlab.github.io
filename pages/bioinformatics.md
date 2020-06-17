@@ -3,8 +3,6 @@ layout: page
 title: Bioinformatic tools and resources
 ---
 
-# Tools 
-
 ## The "20 accessions" RNA-seq expression browser
 
 [__Link to the tool__](https://bleekerlab.shinyapps.io/rnaseqvis/)  
@@ -16,18 +14,23 @@ The tomato ITAG2.0 genome assembly and the ITAG2.4 genome annotation were used. 
 Original sequencing files can be found on Zenodo (restricted access):   
 [part 1](https://zenodo.org/record/3603295), [part 2](https://zenodo.org/record/3610352), [part 3](https://zenodo.org/record/3610997), [part 4](https://zenodo.org/record/3611053), [part 5](https://zenodo.org/record/3611144).
 
-# Datasets 
+## Blast sequence server
+A server to perform blast queries on our custom wild tomato genomic resources. 
 
-## Sequencing data
+You will find:
+1. __De novo transcriptome assemblies__ (no reference genome) obtained from stem trichome mRNA-seq sequencing reads using [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki): 
+  - LA2172: "Solanum_arcanum_LA2172_denovo" 
+  - LA1401: "Solanum_cheesmaniae_LA1401_denovo"
+  - etc. 
+2. __Draft genome sequences for S. habrochaites LA1777 and PI127826__:
+  - LA1777: "LA1777_genome_HotelProject2019"
+  - PI127826: "PI127826_genome_HotelProject2019"
 
-Sequencing data from the laboratory (mRNA-seq, small RNA-seq and DNA-seq) are available under restricted access on the [Zenodo archive](https://zenodo.org/communities/bleekerlab/).
 
-## Wild tomato genomic references
-Based on a Technology Hotel Funding scheme (Agrogenomcsics), the group has two draft genomes for _S. habrochaites_ LA1777 and _S. habrochaites_ PI127826. They are available on Zenodo [here](https://zenodo.org/record/3712239) provided you are granted access.
+Please request access to these resources (contact me at m.galland [at] uva [dot] nl).
 
-
-## Tomato trichome pictures
-[Here](https://zenodo.org/record/3555363) you can find tomato stem trichome high-resolution pictures for the genotypes listed below:
+# Pipelines and scripts
+Scripts and other (public) code developed can be found on [GitHub at the BleekerLab organization](https://github.com/BleekerLab).
 
 
 <!-- ### Footer
